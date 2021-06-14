@@ -15,7 +15,7 @@
 3 persevere    
 4 wide imagination    
 5 deep thinking    
-## FOR MORE DETAILES ABOUT MENTALITIES AND MAKE YOUR OWN CHEACK [CLICK HERE](https://www.google.com/?hl=ar)
+## FOR MORE DETAILES ABOUT MENTALITIES AND MAKE YOUR OWN CHECK [CLICK HERE](https://www.google.com/?hl=ar)
 
 
 
