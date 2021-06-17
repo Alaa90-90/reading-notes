@@ -1,6 +1,8 @@
 # Logical operators
 Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value. However, the && and || operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value. The logical operators are described in the following table.
 
+<img src ="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Logical-Operators-in-JavaScript.jpg">
+
 ## Logical operators
 
 |   |       | Returns expr1 if it can be converted to false; otherwise, returns expr2. Thus, when used with Boolean values, && returns true if both operands are true; otherwise, returns false.            |
