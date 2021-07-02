@@ -7,21 +7,21 @@
 ## 102 Reading Notes    
 |No. | Subject |  
 |-------|----|  
-|1 |[mindset](mindset)|  
-|2 |[read01](read01)|  
-|3|[read02](read02)|  
-|4|[read03](read03)|
-|5|[read04](read04)|
-|6|[read05](read05)|
-|7|[read06](read06)|
-|8|[read07](read07)|
+|read01 |[mindset](mindset)|  
+|read02 |[read01](read01)|  
+|read03|[read02](read02)|  
+|read04|[read03](read03)|
+|read05|[read04](read04)|
+|read06|[read05](read05)|
+|read07|[read06](read06)|
+|read08|[read07](read07)|
 
 
 
 ## 201 Reading Notes    
 |No. | Subject |  
 |-------|----|  
-|read01 |[mindset](read01)|  
+|read01 |[read00](read01)|  
 |read02 |[read01](read02)|  
 |read03|[read02](read03)|  
 |read04|[read03](read04)|
