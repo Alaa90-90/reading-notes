@@ -7,15 +7,20 @@
 ## 102 Reading Notes    
 |No. | Subject |  
 |-------|----|  
-|read01 |[mindset](mindset)|  
-|read02 |[read01](read01)|  
-|read03|[read02](read02)|  
-|read04|[read03](read03)|
-|read05|[read04](read04)|
-|read06|[read05](read05)|
-|read07|[read06](read06)|
-|read08|[read07](read07)|
-
+|read01 |[What is Markdown?
+](read01)|  
+|read02 |[Version Control
+](read02)|  
+|read03|[Remote Repositories
+](read03)|  
+|read04|[Semantics](read04)|
+|read05|[Logical operators
+](read05)|
+|read06|[CSS & CSS colors
+](read06)|
+|read07|[functions](read07)|
+|read08 |[THE MINDSET
+](mindset)| 
 
 
 ## 201 Reading Notes    
