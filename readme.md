@@ -5,22 +5,16 @@
 
 
 ## 102 Reading Notes    
-|No. | Subject |  
-|-------|----|  
-|read01 |[What is Markdown?
-](read01)|  
-|read02 |[Version Control
-](read02)|  
-|read03|[Remote Repositories
-](read03)|  
-|read04|[Semantics](read04)|
-|read05|[Logical operators
-](read05)|
-|read06|[CSS & CSS colors
-](read06)|
-|read07|[functions](read07)|
-|read08 |[THE MINDSET
-](mindset)| 
+|No.               | Subject                                 |  
+|------------------|-----------------------------------------|  
+|read01            |[What is Markdown?](read01)              |  
+|read02            |[Version Control](read02)                |  
+|read03            |[Remote Repositories](read03)            |  
+|read04            |[Semantics](read04)                      |
+|read05            |[Logical operators](read05)              |
+|read06            |[CSS & CSS colors](read06)               |
+|read07            |[functions](read07)                      |
+|read08            |[THE MINDSET](mindset)                   | 
 
 
 ## 201 Reading Notes    
