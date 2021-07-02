@@ -5,16 +5,16 @@
 
 
 ## 102 Reading Notes    
-|No.               | Subject                                 |  
-|------------------|-----------------------------------------|  
-|read01            |[What is Markdown?](https://alaa90-90.github.io/reading-notes/read01)              |  
-|read02            |[Version Control](https://alaa90-90.github.io/reading-notes/read02)                |  
-|read03            |[Remote Repositories](https://alaa90-90.github.io/reading-notes/read03)            |  
-|read04            |[Semantics](https://alaa90-90.github.io/reading-notes/read04)                      |
-|read05            |[Logical operators](https://alaa90-90.github.io/reading-notes/read05)              |
-|read06            |[CSS & CSS colors](https://alaa90-90.github.io/reading-notes/read06)               |
-|read07            |[functions](https://alaa90-90.github.io/reading-notes/read07)                      |
-|read08            |[THE MINDSET](https://alaa90-90.github.io/reading-notes/)                   | 
+|No.               | Subject                                                                           |       
+|------------------|-----------------------------------------------------------------------------------|            
+|read01            |[What is Markdown?](https://alaa90-90.github.io/reading-notes/read01)              |            
+|read02            |[Version Control](https://alaa90-90.github.io/reading-notes/read02)                |         
+|read03            |[Remote Repositories](https://alaa90-90.github.io/reading-notes/read03)            |           
+|read04            |[Semantics](https://alaa90-90.github.io/reading-notes/read04)                      |         
+|read05            |[Logical operators](https://alaa90-90.github.io/reading-notes/read05)              |          
+|read06            |[CSS & CSS colors](https://alaa90-90.github.io/reading-notes/read06)               |         
+|read07            |[functions](https://alaa90-90.github.io/reading-notes/read07)                      |          
+|read08            |[THE MINDSET](https://alaa90-90.github.io/reading-notes/)                          |          
 
 
 ## 201 Reading Notes    
