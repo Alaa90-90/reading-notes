@@ -22,7 +22,7 @@ im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied Univ
 ## 201 Reading Notes    
 |No.                   | Subject                         |                                    
 |----------------------|---------------------------------|          
-|read01                |[class-01](read01)               |          
+|read01                |[class-01](class-01.md)               |          
 |read02                |[B](read02)                      |                   
 |read03                |[C](read03)                      |                 
 |read04                |[D](read04)                      |                   
