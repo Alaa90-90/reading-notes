@@ -1,5 +1,8 @@
 # JavaScript Statements  
 
+![javascript statments using](https://ariya.io/images/2012/04/statementfreq.png)
+
+
 
 Example      
 * let x, y, z;    // Statement 1      
