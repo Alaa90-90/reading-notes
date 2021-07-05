@@ -1,1 +1,80 @@
-cvnfhjghvcbgsrd
+# the box model
+Everything in CSS has a box around it, and understanding these boxes is key to being able to create layouts with CSS, or to align items with other items.
+# Block and inline boxes
+In CSS we broadly have two types of boxes — block boxes and inline boxes. These characteristics refer to how the box behaves in terms of page flow, 
+and in relation to other boxes on the page:
+If a box is defined as a block, it will behave in the following ways:
+- The box will break onto a new line.
+- The box will extend in the inline direction to fill the space available in its container. In most cases this means that the box will become as wide as its container,
+   filling up 100% of the space available.
+- The width and height properties are respected.
+- Padding, margin and border will cause other elements to be pushed away from the box
+
+If a box has an outer display type of inline, then:
+
+- The box will not break onto a new line.
+- The width and height properties will not apply.
+- Vertical padding, margins, and borders will apply but will not cause other inline boxes to move away from the box.
+- Horizontal padding, margins, and borders will apply and will cause other inline boxes to move away from the box.
+
+# What is the CSS box model?
+The full CSS box model applies to block boxes, inline boxes only use some of the behavior defined in the box model. The model defines how the different 
+parts of a box — margin, border, padding, and content — work together to create a box that you can see on the page. To add some additional complexity, there is
+a standard and an alternate box model.
+
+#Parts of a box
+Making up a block box in CSS we have the:
+
+Content box: The area where your content is displayed, which can be sized using properties like width and height.
+Padding box: The padding sits around the content as white space; its size can be controlled using padding and related properties.
+Border box: The border box wraps the content and any padding. Its size and style can be controlled using border and related properties.
+Margin box: The margin is the outermost layer, wrapping the content, padding and border as whitespace between this box and other elements. Its size can be 
+controlled using margin and related properties.
+The below diagram shows these layers:
+
+![b](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model/box-model.png)
+
+# The standard CSS box model
+In the standard box model, if you give a box a width and a height attribute, this defines the width and height of the content box. Any padding and border 
+is then added to that width and height to get the total size taken up by the box. This is shown in the image below.
+
+If we assume that the box has the following CSS defining width, height, margin, border, and padding:
+
+> .box {
+  width: 350px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+>
+The space taken up by our box using the standard box model will actually be 410px (350 + 25 + 25 + 5 + 5), and the height 210px (150 + 25 + 25 + 5 + 5), as the
+padding and border are added to the width used for the content box.
+
+![xgfd](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model/standard-box-model.png)
+
+# The alternative CSS box model
+You might think it is rather inconvenient to have to add up the border and padding to get the real size of the box, and you would be right! For this reason, CSS had 
+an alternative box model introduced some time after the standard box model. Using this model, any width is the width of the visible box on the page, therefore the 
+content area width is that width minus the width for the padding and border. The same CSS as used above would give the below result (width = 350px, height = 150px).
+
+![box](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model/alternate-box-model.png)
+
+By default, browsers use the standard box model. If you want to turn on the alternative model for an element you do so by setting box-sizing: border-box on it.
+By doing this you are telling the browser to take the border box as the area defined by any size you set.
+
+> .box {
+  box-sizing: border-box;
+} 
+>
+If you want all of your elements to use the alternative box model, and this is a common choice among developers, set the box-sizing property on the <html> element,
+then set all other elements to inherit that value, as seen in the snippet below. If you want to understand the thinking behind this, see the CSS
+
+
+> html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+>
