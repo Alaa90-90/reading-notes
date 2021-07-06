@@ -25,7 +25,7 @@ im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied Univ
 |read01                |[class-01](class-01.md)  |          
 |read02                |[B](class-02.md)              |                   
 |read03                |[C](class-03.md)              |                 
-|read04                |[D](class-04.md)              |                   
+|read04                |[js objects](class-04.md)              |                   
 |read05                |[E](class-05.md)              |                     
 |read06                |[F](class-06.md)              |                        
 |read07                |[G](class-07.md)              |                           
