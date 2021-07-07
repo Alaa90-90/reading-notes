@@ -26,6 +26,7 @@ In general, JPEG is an excellent option for displaying complex photographs that 
 
 Although JPEGs hold up well when compressed, you can usually notice a small drop in quality after optimizing images. Though, this all depends on the level of compression that’s selected for the image. The quality drops aren’t often noticeable unless you’re looking very closely.
 
+
 On the other hand, JPEGs are not perfect for images with very few color data, like interface screenshots and other simple computer-generated graphics. 
 
 ## 2. PNG
@@ -36,6 +37,7 @@ Here’s an example of a PNG image:
 ![png](https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.axYo~36f5d/w:714/h:278/q:98/dpr:1.3/https://s15165.pcdn.co/wp-content/uploads/2018/10/WP-dash.png)
 
 This is a screenshot of the WordPress dashboard. PNGs do a great job when you have an image with rapid transitions between colors that need to remain sharp. For example, when you’re taking a screenshot of a user interface where different interface elements strongly transition between dark and light backgrounds, it’s much better to use PNGs. Like this part here – the transitions between the white, gray and blue:
+
 
 ![yh](https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.axYo~36f5d/w:591/h:222/q:98/dpr:1.3/https://s15165.pcdn.co/wp-content/uploads/2018/10/WP-dash-2.png)
 
