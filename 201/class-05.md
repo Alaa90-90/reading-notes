@@ -66,3 +66,6 @@ On most sites, either JPEGs or PNGs make an excellent choice for the bulk of you
 More specifically, JPEGs can enable you to squeeze a bit more performance out of your web pages, due to their high compression ratio, but only if you’re using them for color-heavy images – like all photographs, basically. If you want your site to load as fast as possible, and you don’t mind sacrificing a bit of image quality, JPEG is the best image format for your needs.
 
 However, if you care more about ensuring that all your images look as good as they can, we’d recommend that you go with PNGs instead. This image format retains its high quality even when compressed, and works for both complex and simple images.
+
+
+
