@@ -22,21 +22,21 @@ im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied Univ
 ## 201 Reading Notes    
 |No.                   | Subject                 |                                    
 |----------------------|-------------------------|          
-|read01                |[class-01](class-01.md)  |          
-|read02                |[B](class-02.md)              |                   
-|read03                |[C](class-03.md)              |                 
-|read04                |[js objects](class-04.md)              |                   
-|read05                |[E](class-05.md)              |                     
-|read06                |[F](class-06.md)              |                        
-|read07                |[G](class-07.md)              |                           
-|read08                |[H](class-08.md)              |                               
-|read09                |[I](class-09.md)              |                                
-|read10                |[J](class-10.md)              |                  
-|read11                |[K](class-11.md)              |                  
-|read12                |[L](class-12.md)              |                   
-|read13                |[M](class-13.md)              |                        
-|read14                |[N](class-14.md)              |                        
-|read15                |[O](class-15.md)              |
+|read01                |[History of HTML](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-01.md)  |          
+|read02                |[JavaScript Statements](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-02.md)         |                   
+|read03                |[CSS box model](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-03md)         |                 
+|read04                |[js objects](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-04.md)|                   
+|read05                |[E](class-05.md)         |                     
+|read06                |[F](class-06.md)         |                        
+|read07                |[G](class-07.md)         |                           
+|read08                |[H](class-08.md)         |                         
+|read09                |[I](class-09.md)         |                   
+|read10                |[J](class-10.md)         |                  
+|read11                |[K](class-11.md)         |                  
+|read12                |[L](class-12.md)         |                   
+|read13                |[M](class-13.md)         |                        
+|read14a               |[N](class-14.md)         |                        
+|read14b               |[O](class-15.md)         |
 
 
 
