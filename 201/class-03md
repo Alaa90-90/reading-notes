@@ -32,7 +32,9 @@ Margin box: The margin is the outermost layer, wrapping the content, padding and
 controlled using margin and related properties.
 The below diagram shows these layers:
 
+
 ![b](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model/box-model.png)
+
 
 # The standard CSS box model
 In the standard box model, if you give a box a width and a height attribute, this defines the width and height of the content box. Any padding and border 
