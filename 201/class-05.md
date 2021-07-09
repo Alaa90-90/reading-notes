@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# JPEG vs PNG vs GIF
+>>>>>>> 7a0e0847c765a102d7a6bb6e0107f683c221480b
 Images on the web come in many formats, such as JPEGs, GIFs, PNGs, and more. In fact, there are so many acronyms that keeping track of them can be complicated
 
 It is important to put some thought into this matter, since the formats you use for your site’s images have an impact. Some types of graphics look better and don’t occupy as much storage space, for example, which translates to better performance without a loss in quality.
@@ -26,7 +30,10 @@ In general, JPEG is an excellent option for displaying complex photographs that 
 
 Although JPEGs hold up well when compressed, you can usually notice a small drop in quality after optimizing images. Though, this all depends on the level of compression that’s selected for the image. The quality drops aren’t often noticeable unless you’re looking very closely.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7a0e0847c765a102d7a6bb6e0107f683c221480b
 On the other hand, JPEGs are not perfect for images with very few color data, like interface screenshots and other simple computer-generated graphics. 
 
 ## 2. PNG
@@ -36,8 +43,12 @@ Here’s an example of a PNG image:
 
 ![png](https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.axYo~36f5d/w:714/h:278/q:98/dpr:1.3/https://s15165.pcdn.co/wp-content/uploads/2018/10/WP-dash.png)
 
+<<<<<<< HEAD
 This is a screenshot of the WordPress dashboard. PNGs do a great job when you have an image with rapid transitions between colors that need to remain sharp. For example, when you’re taking a screenshot of a user interface where different interface elements *strongly* transition between dark and light backgrounds, it’s much better to use PNGs. Like this part here – the transitions between the white, gray and blue:
 
+=======
+This is a screenshot of the WordPress dashboard. PNGs do a great job when you have an image with rapid transitions between colors that need to remain sharp. For example, when you’re taking a screenshot of a user interface where different interface elements strongly transition between dark and light backgrounds, it’s much better to use PNGs. Like this part here – the transitions between the white, gray and blue:
+>>>>>>> 7a0e0847c765a102d7a6bb6e0107f683c221480b
 
 ![yh](https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.axYo~36f5d/w:591/h:222/q:98/dpr:1.3/https://s15165.pcdn.co/wp-content/uploads/2018/10/WP-dash-2.png)
 
@@ -72,4 +83,8 @@ However, if you care more about ensuring that all your images look as good as th
 
 
 
+<<<<<<< HEAD
      
+=======
+     
+>>>>>>> 7a0e0847c765a102d7a6bb6e0107f683c221480b
