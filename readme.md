@@ -26,7 +26,7 @@ im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied Univ
 |read02                |[JavaScript Statements](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-02.md)         |                   
 |read03                |[CSS box model](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-03md)         |                 
 |read04                |[js objects](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-04.md)|                   
-|read05                |[JPEG,PNG,GIF](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-05.md|
+|read05                |[JPEG,PNG,GIF](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-05.md)|
 |read06                |[Document Object Model (DOM)](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-06.md)         |                        
 |read07                |[G](class-07.md)         |                           
 |read08                |[H](class-08.md)         |                         

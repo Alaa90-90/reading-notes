@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # JPEG vs PNG vs GIF
 >>>>>>> 7a0e0847c765a102d7a6bb6e0107f683c221480b
 Images on the web come in many formats, such as JPEGs, GIFs, PNGs, and more. In fact, there are so many acronyms that keeping track of them can be complicated
