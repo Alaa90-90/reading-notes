@@ -1,8 +1,10 @@
 # Error
 Error objects are thrown when runtime errors occur. The Error object can also be used as a base object for user-defined exceptions. See below for standard built-in error types.
-![errors](https://data.embeddedcomputing.com/uploads/resize/1256/756/external/data.embeddedcomputing.com/uploads/articles/wp/345429795/ECD5688-figures-4)
-## Description
 Runtime errors result in new Error objects being created and thrown.
+
+![errdfgdfors](https://pbs.twimg.com/profile_images/1119245036091256832/rv1l6uqy_400x400.png)
+
+
 
 # Error types
 Besides the generic Error constructor, there are other core error constructors in JavaScript. For client-side exceptions, see Exception handling statements.
@@ -26,6 +28,7 @@ Creates an instance representing an error that occurs when an internal error in 
 # Code Debugging
 
 ![depugging](https://files.realpython.com/media/Python-Debugging-With-Pdb_Watermarked.a50a90b655cf.jpg)
+
 Programming code might contain syntax errors, or logical errors.
 
 Many of these errors are difficult to diagnose.
