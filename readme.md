@@ -32,7 +32,7 @@ im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied Univ
 |read08                |[forms in HTML](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-09.md)         |                         
 |read08                |[CSS Layouts](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-08.md)         |                         
 |read09                |[forms in HTML](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-09.md )         |                   
-|read10                |[J](class-10.md)         |                  
+|read10                |[js errors type](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-10.md)         |                  
 |read11                |[K](class-11.md)         |                  
 |read12                |[L](class-12.md)         |                   
 |read13                |[M](class-13.md)         |                        
