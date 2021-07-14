@@ -1,6 +1,6 @@
 # Error
 Error objects are thrown when runtime errors occur. The Error object can also be used as a base object for user-defined exceptions. See below for standard built-in error types.
-
+![errors](https://data.embeddedcomputing.com/uploads/resize/1256/756/external/data.embeddedcomputing.com/uploads/articles/wp/345429795/ECD5688-figures-4)
 ## Description
 Runtime errors result in new Error objects being created and thrown.
 
@@ -24,6 +24,8 @@ Creates an instance representing several errors wrapped in a single error when m
 **8- InternalError**                          
 Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".                   
 # Code Debugging
+
+![depugging](https://files.realpython.com/media/Python-Debugging-With-Pdb_Watermarked.a50a90b655cf.jpg)
 Programming code might contain syntax errors, or logical errors.
 
 Many of these errors are difficult to diagnose.
