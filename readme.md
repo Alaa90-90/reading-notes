@@ -31,7 +31,7 @@ im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied Univ
 |read07                |[HTML Tables](./201/class-07.md)|                           
 |read08                |[CSS Layouts](./201/class-08.md)|                         
 |read09                |[Forms in HTML](./201/class-09.md)|                   
-|read10                |[JS Errors Types](./201/class-10.md)|                  
+|read10                |[JS Errors Types](./201/class-10.md)    |                  
 |read11                |[K](./201/class-11.md)|                  
 |read12                |[L](./201/class-12.md)|                   
 |read13                |[M](./201/class-13.md)|                        
