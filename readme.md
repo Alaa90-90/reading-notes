@@ -22,22 +22,21 @@ im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied Univ
 ## 201 Reading Notes    
 |No.                   | Subject                 |                                    
 |----------------------|-------------------------|          
-|read01                |[History of HTML](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-01.md)  |          
-|read02                |[JavaScript Statements](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-02.md)         |                   
-|read03                |[CSS box model](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-03md)         |                 
-|read04                |[js objects](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-04.md)|                   
-|read05                |[JPEG,PNG,GIF](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-05.md)|
-|read06                |[Document Object Model (DOM)](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-06.md)         |                        
-|read07                |[HTML Tables](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-07.md)         |                           
-|read08                |[forms in HTML](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-09.md)         |                         
-|read08                |[CSS Layouts](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-08.md)         |                         
-|read09                |[forms in HTML](https://github.com/Alaa90-90/reading-notes/blob/main/201/class-09.md )         |                   
-|read10                |[js errors type](./201/class-10.md)         |                  
-|read11                |[K](class-11.md)         |                  
-|read12                |[L](class-12.md)         |                   
-|read13                |[M](class-13.md)         |                        
-|read14a               |[N](class-14.md)         |                        
-|read14b               |[O](class-15.md)         |
+|read01                |[History of HTML](./201/class-01.md)  |          
+|read02                |[JavaScript Statements](./201/class-02.md)|
+|read03                |[CSS box model](./201/class-03.md)|                 
+|read04                |[js objects](./201/class-04.md)|                   
+|read05                |[JPEG,PNG,GIF](./201/class-05.md)|
+|read06                |[Document Object Model(DOM)](./201/class-06.md)|
+|read07                |[HTML Tables](./201/class-07.md)|                           
+|read08                |[CSS Layouts](./201/class-08.md)|                         
+|read09                |[Forms in HTML](./201/class-09.md)|                   
+|read10                |[JS Errors Types](./201/class-10.md)|                  
+|read11                |[K](./201/class-10.md)         |                  
+|read12                |[L](./201/class-10.md)         |                   
+|read13                |[M](./201/class-10.md)         |                        
+|read14a               |[N](./201/class-10.md)         |                        
+|read14b               |[O](./201/class-10.md)         |
 
 
 
