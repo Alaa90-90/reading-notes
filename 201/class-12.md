@@ -9,8 +9,6 @@ SOMETIMES, we need to have a canvas in our page. It's recommended to give the ch
     
 Now that we have a canvas we can use, we need to include Chart.js in our page.
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
- 
     
 Now, we can create a chart. We add a script to our page:
 >
