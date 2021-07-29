@@ -1,10 +1,8 @@
 # Introduction
 
 ### Hi all colleagues
-im **Alaa Marei** 30y/o mechanical engineer graduated form Al Balqa Applied University And I Have 5 years Experience in construction Field, I`m aspire to learn more and more about programming and web dveloping and happy to be here among you all
+im **Alaa Marei**  I`m aspire to learn more and more about programming and web dveloping and happy to be here among you all
 ## best wishes for all .
-
-
 
 ## 102 Reading Notes    
 |No.               | Subject                        |       
